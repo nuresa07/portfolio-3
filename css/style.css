@@ -8,10 +8,10 @@ body {
 }
 
 .jumbotron {
-    background-image: url('../img/header-bg.jpg');
+    background-image: url('../img/bc.jpg');
     background-attachment: fixed;
     background-size: cover;
-    background-position: 0 -296px;
+    background-position: 0 -486px;
     color: #eaeaea;
     overflow: hidden;
 }
